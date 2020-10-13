@@ -4,3 +4,4 @@ Commit 2 from feature1
 
 Commit 1 from feature2
 Commit 2 from feature2 (edit on github)
+Commit 3 from feature2
