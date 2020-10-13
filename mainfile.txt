@@ -2,3 +2,4 @@ Init from master
 Commit 1 from feature1
 Commit 2 from feature1
 
+Commit 1 from feature2
